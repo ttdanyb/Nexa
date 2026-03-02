@@ -94,4 +94,4 @@ Objectif pédagogique
 Ce projet permet de : - Comprendre la programmation réseau bas niveau en
 C - Manipuler WinSock2 - Gérer la concurrence (multi-threading) -
 Concevoir une architecture P2P simple - Construire un projet technique
-pour portfolio
+pour portfolio.
